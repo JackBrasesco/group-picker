@@ -30,3 +30,28 @@ body {
   border: 5px darkgreen solid;
   border-radius: 20px;
 }
+
+#g3 {
+  width: 150;
+  height: 150;
+  background-color: blue;
+  margin-left: 23%;
+  margin-top: 150;
+  border: 5px darkblue solid;
+  border-radius: 20px;
+}
+
+#g4 {
+  width: 150;
+  height: 150;
+  background-color: gold;
+  margin-left: 23%;
+  margin-top: 150;
+  border: 5px goldenrod solid;
+  border-radius: 20px;
+}
+
+.g34 {
+  display: inline-block;
+  position: absolute;
+}
