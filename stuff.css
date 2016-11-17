@@ -7,12 +7,27 @@ body {
   margin-left: 48%
 }
 
+.g12 {
+  display: inline-block;
+}
 #g1 {
+  position: relative;
   width: 150;
   height: 150;
   background-color: red;
   margin-left: 23%;
   margin-top: 150;
   border: 5px darkred solid;
+  border-radius: 20px;
+}
+
+#g2 {
+  position: relative;
+  width: 150;
+  height: 150;
+  background-color: green;
+  margin-left: 23%;
+  margin-top: 150;
+  border: 5px darkgreen solid;
   border-radius: 20px;
 }
