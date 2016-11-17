@@ -7,10 +7,6 @@ body {
   margin-left: 48%
 }
 
-#g12 {
-  display: inline-block;
-  position: relative;
-}
 #g1 {
   width: 150;
   height: 150;
@@ -51,7 +47,10 @@ body {
   border-radius: 20px;
 }
 
-#g34 {
-  display: inline-block;
-  position: absolute;
+.topgroup {
+  display: inline-block
+}
+
+.bottomgroup {
+  display: inline-bl
 }
