@@ -9,9 +9,9 @@ body {
 
 .g12 {
   display: inline-block;
+  position: relative;
 }
 #g1 {
-  position: relative;
   width: 150;
   height: 150;
   background-color: red;
@@ -22,7 +22,6 @@ body {
 }
 
 #g2 {
-  position: relative;
   width: 150;
   height: 150;
   background-color: green;
