@@ -7,7 +7,7 @@ body {
   margin-left: 48%
 }
 
-.g12 {
+#g12 {
   display: inline-block;
   position: relative;
 }
@@ -51,7 +51,7 @@ body {
   border-radius: 20px;
 }
 
-.g34 {
+#g34 {
   display: inline-block;
   position: absolute;
 }
